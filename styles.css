@@ -38,3 +38,11 @@ body {
     border-radius: 0.25rem;
     transition: all 0.2s ease-in-out;
 }
+.content {
+    margin: 0 auto;
+    width: 50%;
+    background-color: #006aff;
+    border: 3px solid #013987 !important;
+    border-radius: 3px;
+    padding: 20px;
+}
