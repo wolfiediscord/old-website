@@ -21,8 +21,8 @@ body {
 }
 .btn-secondary {
     color: #292b2c;
-    background-color: #fff;
-    border-color: #ccc;
+    background-color: #006aff;
+    border-color: #013987;
 }
 .btn {
     display: inline-block;
@@ -31,7 +31,7 @@ body {
     white-space: nowrap;
     vertical-align: middle;
     font: arial;
-    border: 1px solid transparent;
+    border: 3px solid #013987 !important;
     padding: 0.5rem 1rem;
     font-size: 1rem;
     line-height: 1.25;
