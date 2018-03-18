@@ -1,7 +1,60 @@
-{"name":"drag-in-files.svg","date":"2016-10-22T16:17:49.954Z","url":"https://cdn.hyperdev.com/drag-in-files.svg","type":"image/svg","size":7646,"imageWidth":276,"imageHeight":276,"thumbnail":"https://cdn.hyperdev.com/drag-in-files.svg","thumbnailWidth":276,"thumbnailHeight":276,"dominantColor":"rgb(102, 153, 205)","uuid":"adSBq97hhhpFNUna"}
-{"name":"click-me.svg","date":"2016-10-23T16:17:49.954Z","url":"https://cdn.hyperdev.com/click-me.svg","type":"image/svg","size":7116,"imageWidth":276,"imageHeight":276,"thumbnail":"https://cdn.hyperdev.com/click-me.svg","thumbnailWidth":276,"thumbnailHeight":276,"dominantColor":"rgb(243, 185, 186)","uuid":"adSBq97hhhpFNUnb"}
-{"name":"paste-me.svg","date":"2016-10-24T16:17:49.954Z","url":"https://cdn.hyperdev.com/paste-me.svg","type":"image/svg","size":7242,"imageWidth":276,"imageHeight":276,"thumbnail":"https://cdn.hyperdev.com/paste-me.svg","thumbnailWidth":276,"thumbnailHeight":276,"dominantColor":"rgb(42, 179, 185)","uuid":"adSBq97hhhpFNUnc"}
-{"name":"img_544420.png","date":"2018-02-12T02:56:59.390Z","url":"https://cdn.glitch.com/ac8acb68-7f8f-408a-9a2c-d1c5e7be3fc7%2Fimg_544420.png","type":"image/png","size":8280,"imageWidth":980,"imageHeight":388,"thumbnail":"https://cdn.glitch.com/ac8acb68-7f8f-408a-9a2c-d1c5e7be3fc7%2Fthumbnails%2Fimg_544420.png","thumbnailWidth":330,"thumbnailHeight":131,"dominantColor":null,"uuid":"huNU3UmGlnICXbUU"}
-{"name":"title.png","date":"2018-02-12T02:58:00.816Z","url":"https://cdn.glitch.com/ac8acb68-7f8f-408a-9a2c-d1c5e7be3fc7%2Ftitle.png","type":"image/png","size":40592,"imageWidth":680,"imageHeight":231,"thumbnail":"https://cdn.glitch.com/ac8acb68-7f8f-408a-9a2c-d1c5e7be3fc7%2Fthumbnails%2Ftitle.png","thumbnailWidth":330,"thumbnailHeight":113,"dominantColor":"rgb(4,76,252)","uuid":"AeFfrG5wGyDs8pli"}
-{"name":"Sleeping-Wolf-Background.jpg","date":"2018-02-12T02:58:04.309Z","url":"https://cdn.glitch.com/ac8acb68-7f8f-408a-9a2c-d1c5e7be3fc7%2FSleeping-Wolf-Background.jpg","type":"image/jpeg","size":357873,"imageWidth":2560,"imageHeight":1440,"thumbnail":"https://cdn.glitch.com/ac8acb68-7f8f-408a-9a2c-d1c5e7be3fc7%2Fthumbnails%2FSleeping-Wolf-Background.jpg","thumbnailWidth":330,"thumbnailHeight":186,"dominantColor":"rgb(192,201,217)","uuid":"BWiZXs8u6NutAqWy"}
-{"name":"wolflogo.png","date":"2018-02-12T03:03:23.734Z","url":"https://cdn.glitch.com/ac8acb68-7f8f-408a-9a2c-d1c5e7be3fc7%2Fwolflogo.png","type":"image/png","size":4837,"imageWidth":300,"imageHeight":300,"thumbnail":"https://cdn.glitch.com/ac8acb68-7f8f-408a-9a2c-d1c5e7be3fc7%2Fwolflogo.png","thumbnailWidth":300,"thumbnailHeight":300,"dominantColor":null,"uuid":"hI9DFhKH1XpOP6GG"}
+<!DOCTYPE html>
+<html>
+<style>
+@import url('https://wolfie.glitch.me/styles.css');
+</style>
+<head>
+<!-- Favicon -->
+<link rel="shortcut icon" type="image/png" href="https://cdn.glitch.com/ac8acb68-7f8f-408a-9a2c-d1c5e7be3fc7%2Fwolflogo.png?1518404603734"/>
+<!-- Title -->
+<title>Wolfie | Home</title>
+<!-- Header Code -->
+<center>
+
+<img src="https://cdn.glitch.com/ac8acb68-7f8f-408a-9a2c-d1c5e7be3fc7%2Ftitle.png?1518404280816" width="360" height="121" style="border: 1px !important;border-radius: 16px;padding: 10px;">
+<div id="header" class="header">
+<a href="https://twitter.com/@ThatOneWolfYT" class="btn-secondary btn btn-lg" style="font-family:arial; color:white;" align="left">Twitter</a>
+<a href="https://discord.me/contactwolfie" class="btn-secondary btn btn-lg" style="font-family:arial; color:white;" align="left">Discord</a>
+<a href="https://www.youtube.com/channel/UCUbjZdfFZvgqLsiERlXISng?view_as=subscriber" class="btn-secondary btn btn-lg" style="font-family:arial; color:white;" align="left">Youtube</a>
+<a href="mailto:wolfiediscord@gmail.com" class="btn-secondary btn btn-lg" style="font-family:arial; color:white;" align="left">Email</a>
+<a href="https://github.com/ThatOneWolfie" class="btn-secondary btn btn-lg" style="font-family:arial; color:white;" align="left">Github</a>
+</div>
+</center>
+</head>
+<body>
+<br>
+<center>
+<div class="body">
+<!--- Articles:
+<h1 style="font-size:200%; font-family:arial; color:white;" align="left">Title</h1>
+<h1 class="regulartext" align="left">Description</h1>
+<h1 class="regulartext" style="font-size:50%;" align="left"><i>Posted On: (MM/DD/YYYY)</i></h1>
+-->
+<h1 style="font-size:250%; font-family:arial; color:white;" align="left">Welcome!</h1>
+<h1 class="regulartext" align="left">Welcome to my website! Feel free to look around at stuff and click on the buttons! I might update this section soon.</h1>
+<h1 class="regulartext" style="font-size:50%;" align="left"><i>Updated On: 3/18/2018</i></h1>
+<br>
+<!-- Put Articles Here -->
+<h1 style="font-size:200%; font-family:arial; color:white;" align="left">Mario Kart Wii Videos</h1>
+<h1 class="regulartext" align="left">On my YouTube have posted 2 Mario Kart Wii videos. You might have noticed they are higher pitched than what they normally would be. I am working on some songs to put into the tracks instead of raising the pitch of the normal songs. This is the reason why it is taking so long for more Mario Kart Wii videos to come out. Whenever I have completed the replacement of the songs, I will tell you guys. Stay tuned!</h1>
+<h1 class="regulartext" style="font-size:50%;" align="left"><i>Posted On: (03/18/2018)</i></h1>
+
+</div>
+</center>
+</body>
+<!-- As Articles Fill Up, Script Pushes Links to top -->
+<script>
+  window.onscroll = function() {myFunction()};
+
+var header = document.getElementById("header");
+var sticky = header.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    header.classList.add("links");
+  } else {
+    header.classList.remove("links");
+  }
+}
+</script>
+</html>

@@ -39,11 +39,38 @@ body {
     border-radius: 0.25rem;
     transition: all 0.2s ease-in-out;
 }
-.content {
+/*Blue Boxes*/
+.header {
+    margin: 0 auto;
+    width: 75%;
+    background-color: #006aff;
+    border: 3px solid #013987 !important;
+    border-radius: 3px;
+    padding: 10px;
+}
+.body {
     margin: 0 auto;
     width: 50%;
     background-color: #006aff;
     border: 3px solid #013987 !important;
     border-radius: 3px;
-    padding: 20px;
+    padding: 10px;
+}
+/*Text*/
+.regulartext {
+font-family: arial;
+font-size: 100%;
+color: white;
+}
+/*Links Bar/Navigator */
+.links {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+	left: 150px;
+    width: 75%;
+	padding: 10px;
+	margin: 0 auto;
+	  border: 3px solid #013987 !important;
+    border-radius: 3px;
 }
