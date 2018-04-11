@@ -31,7 +31,7 @@ body {
     text-align: center;
     white-space: nowrap;
     vertical-align: middle;
-    font: arial;
+    font-family: arial;
     border: 3px solid #013987 !important;
     padding: 0.5rem 1rem;
     font-size: 1rem;
