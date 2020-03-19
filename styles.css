@@ -1,16 +1,11 @@
 /*Background*/
 body {
-		 background: url("https://cdn.glitch.com/ac8acb68-7f8f-408a-9a2c-d1c5e7be3fc7%2FSleeping-Wolf-Background.jpg?1518404284309") no-repeat center center fixed; 
+		 background: rgb(26, 26, 26); 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 		}
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    margin-top: -100px;
-    margin-left: -200px;
 @media (max-width: 500px;)
 }
 /*Buttons*/
