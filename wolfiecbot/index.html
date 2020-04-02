@@ -3,7 +3,7 @@
     <head>
       <title>Wolfie | WolfieCBOT</title>
       <link rel="shortcut icon" type="image/png" href="https://cdn.glitch.com/ac8acb68-7f8f-408a-9a2c-d1c5e7be3fc7%2Fwhitewolflogo.png?v=1584638378307"/>
-        <meta name="viewport" content="width=device-width">
+      <meta name="viewport" content="width=device-width, initial-scale=1" /> 
       <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
       <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <style>
@@ -26,6 +26,7 @@ background-repeat: no-repeat;
 /* Scale the background image to be as large as possible */
 background-size: cover;
 }
+@media screen and (min-width: 601px) {
   h1 {
       color: white;
       font-family: 'Roboto', sans-serif;
@@ -36,10 +37,33 @@ background-size: cover;
       font-family: 'Roboto', sans-serif;
       font-size: 200%;
   }
-          h3 {
-            color: white;
-            background-color: red;
-          }
+  p {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 200%;
+}
+}
+
+@media screen and (max-width: 600px) {
+  h1 {
+      color: white;
+      font-family: 'Roboto', sans-serif;
+      font-size: 6vw;
+  }
+  h2 {
+      color: white;
+      font-family: 'Roboto', sans-serif;
+      font-size: 4vw;
+  }
+  p {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4vw;
+}
+li {
+  font-size: 5vw;
+}
+}
   .navbar {
   list-style-type: none;
   margin: 0;
@@ -65,11 +89,7 @@ background-size: cover;
 .navbarlia:hover {
   background-color: #111;
 }
-p {
-    color: white;
-    font-family: 'Roboto', sans-serif;
-    font-size: 200%;
-}
+
 .badge1 {
    position:relative;
 }
@@ -144,7 +164,7 @@ p {
         <center>
         <div class="w3-card-4" style="width:50%;">
           <header class="w3-container w3-blue">
-            <h1 id="changelog">Changelogs</h1>
+            <h1>Changelogs</h1>
           </header>
           <div class="w3-container w3-black">
             <ul class="w3-ul w3-black">
@@ -267,15 +287,17 @@ p {
         <br>
         <div class="w3-card-4" style="width:50%;">
           <header class="w3-container w3-blue">
-            <h1 id="invite">Invites</h1>
+            <h1 id="invite">Invite</h1>
           </header>
           <div class="w3-container w3-black">
             <ul class="w3-ul w3-black">
               <li>Click on one of the buttons below.
                 <br>
                 <br>
-                <div class="w3-bar">
+                <div class="w3-bar w3-center">
                 <a href="https://discordapp.com/oauth2/authorize?client_id=309132696658116609&permissions=8&scope=bot"><button class="w3-button w3-blue">Invite Bot</button></a>
+                <br>
+                <br>
                 <a href="https://discord.gg/uwWXZAt"><button class="w3-button w3-blue">Support Server</button></a>
                 </div>
               </li>
