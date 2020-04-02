@@ -1,71 +1,57 @@
-/*Background*/
 body {
-		 background: rgb(26, 26, 26); 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-		}
-@media (max-width: 500px;)
+    /* The background image */
+background-image: url('https://cdn.glitch.com/ac8acb68-7f8f-408a-9a2c-d1c5e7be3fc7%2F3840x2160_night.png?v=1584643034957');
+
+/* Set a specified height, or the minimum height for the background image */
+min-height: 500px;
+
+/* Set background image to fixed (don't scroll along with the page) */
+background-attachment: fixed;
+
+/* Center the background image */
+background-position: center;
+
+/* Set the background image to no repeat */
+background-repeat: no-repeat;
+
+/* Scale the background image to be as large as possible */
+background-size: cover;
 }
-/*Buttons*/
-.btn-lg, .btn-group-lg > .btn {
-    padding: 0.5rem 1rem;
-    font-size: 1.25rem;
-    line-height: 1.5;
-    border-radius: 0.3rem;
+@media screen and (min-width: 601px) {
+  h1 {
+      color: white;
+      font-family: 'Roboto', sans-serif;
+      font-size: 350%;
+  }
+  h2 {
+      color: white;
+      font-family: 'Roboto', sans-serif;
+      font-size: 200%;
+  }
+  p {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 200%;
 }
-.btn-secondary {
-    color: #292b2c;
-    background-color: #006aff;
-    border-color: #013987;
 }
-.btn {
-    display: inline-block;
-    font-weight: normal;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: middle;
-    font-family: arial;
-    border: 3px solid #013987 !important;
-    padding: 0.5rem 1rem;
-    font-size: 1rem;
-    line-height: 1.25;
-    border-radius: 0.25rem;
-    transition: all 0.2s ease-in-out;
+
+@media screen and (max-width: 600px) {
+  h1 {
+      color: white;
+      font-family: 'Roboto', sans-serif;
+      font-size: 6vw;
+  }
+  h2 {
+      color: white;
+      font-family: 'Roboto', sans-serif;
+      font-size: 4vw;
+  }
+  p {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4vw;
 }
-/*Blue Boxes*/
-.header {
-    margin: 0 auto;
-    width: 75%;
-    background-color: #006aff;
-    border: 3px solid #013987 !important;
-    border-radius: 3px;
-    padding: 10px;
+li {
+  font-size: 5vw;
 }
-.body {
-    margin: 0 auto;
-    width: 50%;
-    background-color: #006aff;
-    border: 3px solid #013987 !important;
-    border-radius: 3px;
-    padding: 10px;
-}
-/*Text*/
-.regulartext {
-font-family: arial;
-font-size: 100%;
-color: white;
-}
-/*Links Bar/Navigator */
-.links {
-    position: fixed;
-    z-index: 1;
-    top: 0;
-	left: 150px;
-    width: 75%;
-	padding: 10px;
-	margin: 0 auto;
-	  border: 3px solid #013987 !important;
-    border-radius: 3px;
 }
