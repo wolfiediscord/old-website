@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Latest - V4.1.5",
+    "changes": "+ Add Error handling for image commands"
+  }, {
+    "name": "Major Past Releases",
+    "changes": "v1 - Basic Bot without many features\nv2 - Switch to discordjs.guide way of command handling\nv3 - Switch to discord.js-commando\nv4 - Sharding Support and made more modular"
+  }
+]
